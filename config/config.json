@@ -1,0 +1,9 @@
+{
+  "environments": {
+    "url": "https://www.google.com/",
+    "Victoria": {
+      "user": "user",
+      "password": "password"
+    }
+  }
+}
